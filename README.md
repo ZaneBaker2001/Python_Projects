@@ -1,0 +1,1 @@
+This repository documents a variety of Deep Learning projects that I have completed, all of which were done in Python. Each folder contains the source code for a specific deep learning model that I made and demonstrates both the construction of the models and the hyperparameters that were used to train them.
