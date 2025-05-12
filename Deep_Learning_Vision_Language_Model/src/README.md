@@ -6,10 +6,11 @@ This project is designed for generating visual question-answer (QA) datasets fro
 
 The workflow includes generating QA data from annotated images, preparing the dataset, and fine-tuning a base VLM using this data.
 
-To download the required data for this project, run the following command:
-wget https://utexas.box.com/shared/static/qubjm5isldqvyimfj9rsmbnvnbezwcv4.zip -O supertux_data.zip
-unzip supertux_data.zip
+To download the required data for this project, type in the following link:
+https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
 
+This takes you to the zip file containing the data. Download it to your local machine and unzip it by either clicking on the file or typing in this command in your terminal:
+unzip supertux_data.zip
 
 ## Features
 
