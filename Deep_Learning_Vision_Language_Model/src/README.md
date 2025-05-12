@@ -6,6 +6,11 @@ This project is designed for generating visual question-answer (QA) datasets fro
 
 The workflow includes generating QA data from annotated images, preparing the dataset, and fine-tuning a base VLM using this data.
 
+To download the required data for this project, run the following command:
+wget https://utexas.box.com/shared/static/qubjm5isldqvyimfj9rsmbnvnbezwcv4.zip -O supertux_data.zip
+unzip supertux_data.zip
+
+
 ## Features
 
 - Generation of image-based QA pairs from object detection metadata.
