@@ -37,12 +37,21 @@ src/
 
 ## Training and Compression
 
-To train the models, run the following command:
+To train each of the models, run the following commands:
 
-python3 src/train.py
+python3 -m src.train PatchAutoEncoder
 
-After training, to compress images, run the following command:
-python3 src/compress.py --input path-to-image --output path-to-compressed-output
+python3 -m src.train BSQPatchAutoEncoder
+
+python3 -m src.train AutoregressiveModel
+
+
+
+If you wish to generate your own samples, run the following command:
+python3 -m src.generation checkpoints/YOUR_TOKENIZER checkpoints/YOUR_AUTOREGRESSIVE_MODEL N_IMAGES OUTPUT_PATH
+
+Replace YOUR_TOKENIZER, YOUR_AUTOREGRESSIVE_MODEL, N_IMAGES, OUTPUT_PATH with your own values. 
+
 
 Be sure to replace path-to-image and path-to-compressed-output with your specific file paths.
 
