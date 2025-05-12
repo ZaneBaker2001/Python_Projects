@@ -32,10 +32,10 @@ src/
 
 ## Generating the Dataset
 
-To generate the dataset create a directory that will store the data for training using the following command:
+To generate the dataset, create a directory that will store the data for training using the following command:
 mkdir data/train
 
-Then generate the dataset using the follwoing command:
+Then, generate the dataset using the follwoing command:
 python3 src/generate_qa.py generate --input_dir data/train --output_file data/train/qa_pairs.json 
 
 ## Training
