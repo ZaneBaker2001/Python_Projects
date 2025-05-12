@@ -12,7 +12,7 @@ This project implements a deep learning pipeline for image compression using a c
 
 ## Project Structure
 
-homework/
+src/
 - ae.py # Patch-based autoencoder architecture
 - autoregressive.py # Autoregressive entropy model
 - bsq.py # BSQ (Band Sequential) compression support
