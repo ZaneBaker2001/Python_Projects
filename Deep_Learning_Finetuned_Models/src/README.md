@@ -32,7 +32,7 @@ python3 src/train.py
 After training, to compress images, run the following command:
 python3 src/compress.py --input <path-to-image> --output <path-to-compressed-output>
 
-Be sure to replace <path-to-image> and <path-to-compressed-output> with your specific file paths.
+Be sure to replace path-to-image and path-to-compressed-output with your specific file paths.
 
 
 
