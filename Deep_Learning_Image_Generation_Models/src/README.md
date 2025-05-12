@@ -10,6 +10,13 @@ This project implements a deep learning pipeline for image compression using a c
 - Pre-trained model support for quick compression demos.
 - Modular design for extending components.
 
+To download the required data for this project, type in the following link: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
+
+This takes you to the zip file containing the data. Download it to your local machine and unzip it by typing in the following command in your terminal: unzip file_directory/supertux_data.zip
+
+Replace file_directory with the actual directory containing the zip file. 
+
+
 ## Project Structure
 
 src/
