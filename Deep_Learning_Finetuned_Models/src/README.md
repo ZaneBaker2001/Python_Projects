@@ -13,15 +13,17 @@ This project implements a deep learning pipeline for image compression using a c
 ## Project Structure
 
 homework/
-├── ae.py # Patch-based autoencoder architecture
-├── autoregressive.py # Autoregressive entropy model
-├── bsq.py # BSQ (Band Sequential) compression support
-├── compress.py # Script for compressing input images
-├── data.py # Data utilities for preprocessing
-├── generation.py # Generation utilities (sampling, etc.)
-├── tokenize.py # Tokenizer for patches
-├── train.py # Training script
-└── init.py # Package initialization
+- ae.py # Patch-based autoencoder architecture
+- autoregressive.py # Autoregressive entropy model
+- bsq.py # BSQ (Band Sequential) compression support
+- compress.py # Script for compressing input images
+- data.py # Data utilities for preprocessing
+- generation.py # Generation utilities (sampling, etc.)
+- tokenize.py # Tokenizer for patches
+- train.py # Training script
+- init.py # Package initialization
+
+## Training and Compression
 
 To train the models, run the following command:
 
