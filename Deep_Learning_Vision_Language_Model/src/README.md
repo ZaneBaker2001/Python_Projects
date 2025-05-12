@@ -4,17 +4,14 @@
 
 This project is designed for generating visual question-answer (QA) datasets from structured images and fine-tuning a Vision-Language Model (VLM) to improve its understanding of complex scenes. The dataset appears to involve labeled visual elements commonly found in a kart racing environment, such as karts, track boundaries, and special objects.
 
-The workflow includes generating QA data from annotated images, preparing the dataset, and fine-tuning a base VLM using this data.
-
-To download the required data for this project, type in the following link:
-https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
+To download the required data for this project, type in the following link: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
 
 This takes you to the zip file containing the data. Download it to your local machine and unzip it by typing in the following command in your terminal:
 unzip file_directory supertux_data.zip
 
 Replace file_directory with the actual directory containing your file. 
 
-Once unzipped, a folder called data will be outputted. Drag it into your project's folder. 
+Once unzipped, a folder called data will be outputted. Locate it and drag it into your project's folder. The data has now been correctly inserted into your project. 
 
 ## Features
 
