@@ -15,7 +15,7 @@ unzip file_directory supertux_data.zip
 
 Replace file_directory with the actual directory containing your file. 
 
-Once unzipped, a folder called data will be outputted. Drag it into your project's folder. 
+Once unzipped, a folder called data will be outputted. Drag it into your project's folder. The data has now been correctly inserted into your project. 
 
 
 ## Project Structure
