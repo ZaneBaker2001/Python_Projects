@@ -7,7 +7,7 @@ This project is designed for generating visual question-answer (QA) datasets fro
 To download the required data for this project, type in the following link: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
 
 This takes you to the zip file containing the data. Download it to your local machine and unzip it by typing in the following command in your terminal:
-unzip file_directory supertux_data.zip
+unzip supertux_data.zip -d file_directory
 
 Replace file_directory with the actual directory containing your file. 
 
