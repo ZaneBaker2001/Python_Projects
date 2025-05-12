@@ -23,7 +23,7 @@ Once unzipped, a folder called data will be outputted. Locate it and drag it int
 
 ## Directory Structure
 
-homework/
+src/
 - generate_qa.py # Script to create QA pairs from annotated images
 - base_vlm.py # Base class and model definition for the VLM
 - finetune.py # Fine-tuning and training logic for the VLM
