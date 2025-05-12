@@ -2,7 +2,7 @@
 
 This project implements a deep learning pipeline for image compression using a combination of AutoEncoders and Autoregressive models. It is designed for research and educational purposes, showcasing how modern neural architectures can be applied to the task of efficient image representation and reconstruction.
 
-To download the required data for this project, type in the following link: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
+To download the required data for this project, visit the following link in your web browser: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
 
 This takes you to the zip file containing the data. Download it to your local machine and unzip it by typing in the following command in your terminal:
 unzip supertux_data.zip -d file_directory
