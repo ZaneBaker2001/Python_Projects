@@ -53,7 +53,7 @@ python3 -m src.generation checkpoints/YOUR_TOKENIZER checkpoints/YOUR_AUTOREGRES
 Replace YOUR_TOKENIZER, YOUR_AUTOREGRESSIVE_MODEL, N_IMAGES, OUTPUT_PATH with your own values. 
 
 
-Be sure to replace path-to-image and path-to-compressed-output with your specific file paths.
+
 
 
 
