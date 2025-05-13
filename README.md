@@ -1,1 +1,1 @@
-These are deep learning projects that I implemented in Python. Each project folder includes complete source code, a detailed explanation of the model architecture, training procedures, hyperparameters, as well as a README and a requirements.txt file for easy setup and reproducibility.
+These are deep learning projects that I implemented in Python. Each project folder includes the complete source code along with a README and a requirements.txt file for easy setup and reproducibility.
