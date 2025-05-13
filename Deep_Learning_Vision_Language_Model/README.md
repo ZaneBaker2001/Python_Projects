@@ -4,6 +4,12 @@
 
 This project is designed for generating visual question-answer (QA) datasets from structured images and fine-tuning a Vision-Language Model (VLM) to improve its understanding of complex scenes. The dataset appears to involve labeled visual elements commonly found in a kart racing environment, such as karts, track boundaries, and special objects.
 
+## Requirements 
+
+To install the required dependencies, use the following command: 
+
+pip3 install -r requirements.txt
+
 To download the required data for this project, visit the following link in your web browser: https://drive.google.com/file/d/1p2NrOQrAOoeukF-V3VSPBTVOynFpsU4z/view?usp=drive_link
 
 This takes you to the zip file containing the data. Download it to your local machine and unzip it by typing in the following command in your terminal:
