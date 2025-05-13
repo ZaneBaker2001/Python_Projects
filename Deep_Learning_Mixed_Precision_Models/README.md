@@ -2,6 +2,11 @@
 
 This project explores multiple approaches to compress and fine-tune a large neural network model (BIGNET) using various techniques like quantization, LoRA, and half-precision formats. It also includes tools for evaluation and comparison.
 
+## Requirements
+
+To install the required dependencies, use the following command:
+pip3 install -r requirements.txt
+
 ## Project Structure
 
 src/
