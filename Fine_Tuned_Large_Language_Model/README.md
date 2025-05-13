@@ -11,12 +11,12 @@ pip3 install -r requirements.txt
 
 
 src/
-- base_llm.py           # Base class for language models
-- cot.py                # CoT model definition and prompt formatting
-- datagen.py            # Script for generating dataset using CoT
-- data.py               # Dataset loading and iteration logic
-- sft.py                # Supervised fine-tuning implementation
-- rft.py                # Reinforcement fine-tuning implementation
+- base_llm.py           - Base class for language models
+- cot.py                - CoT model definition and prompt formatting
+- datagen.py            - Script for generating dataset using CoT
+- data.py               - Dataset loading and iteration logic
+- sft.py                - Supervised fine-tuning implementation
+- rft.py                - Reinforcement fine-tuning implementation
 
 
 
