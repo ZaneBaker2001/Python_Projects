@@ -10,15 +10,15 @@ pip3 install -r requirements.txt
 ## Project Structure
 
 src/
-- bignet.py           # Base model definition
-- fit.py              # Training logic for binary classifier
-- compare.py          # Compare two models' forward passes
-- half_precision.py   # LayerNorm module with half-precision handling
-- low_precision.py    # 4-bit quantization/dequantization routines
-- lora.py             # LoRA-based layer definition
-- qlora.py            # Quantized LoRA layer using 4-bit weights
-- stats.py            # Model loader and registry
-- __init__.py         # Module initializer
+- bignet.py           - Base model definition
+- fit.py              - Training logic for binary classifier
+- compare.py          - Compare two models' forward passes
+- half_precision.py   - LayerNorm module with half-precision handling
+- low_precision.py    - 4-bit quantization/dequantization routines
+- lora.py             - LoRA-based layer definition
+- qlora.py            - Quantized LoRA layer using 4-bit weights
+- stats.py            - Model loader and registry
+- __init__.py         - Module initializer
 
 ## Viewing Statistics
 
