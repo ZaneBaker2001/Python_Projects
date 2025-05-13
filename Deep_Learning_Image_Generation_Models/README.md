@@ -1,6 +1,6 @@
 # Patch-based Image Compression using Autoencoders and Autoregressive Models
 
-This project implements a deep learning pipeline for image compression using a combination of AutoEncoders and Autoregressive models. It is designed for research and educational purposes, showcasing how modern neural architectures can be applied to the task of efficient image representation and reconstruction.
+This project implements a deep learning pipeline for image compression using a combination of AutoEncoders and Autoregressive models. 
 
 ## Requirements 
 
