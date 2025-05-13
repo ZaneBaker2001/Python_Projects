@@ -30,15 +30,15 @@ Once unzipped, a folder called data will be outputted. Locate it and drag it int
 ## Project Structure
 
 src/
-- ae.py # Patch-based autoencoder architecture
-- autoregressive.py # Autoregressive entropy model
-- bsq.py # BSQ (Band Sequential) compression support
-- compress.py # Script for compressing input images
-- data.py # Data utilities for preprocessing
-- generation.py # Generation utilities (sampling, etc.)
-- tokenize.py # Tokenizer for patches
-- train.py # Training script
-- init.py # Package initialization
+- ae.py - Patch-based autoencoder architecture
+- autoregressive.py - Autoregressive entropy model
+- bsq.py - BSQ (Band Sequential) compression support
+- compress.py - Script for compressing input images
+- data.py - Data utilities for preprocessing
+- generation.py - Generation utilities (sampling, etc.)
+- tokenize.py - Tokenizer for patches
+- train.py - Training script
+- init.py - Package initialization
 
 ## Training and Compression
 
