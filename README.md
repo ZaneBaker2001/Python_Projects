@@ -1,1 +1,1 @@
-These projects showcase a variety of deep learning models that I implemented in Python. Each folder contains the complete source code, detailed descriptions of model architectures, training procedures, and hyperparameters. Together, they provide practical, hands-on examples of applying and experimenting with deep learning techniques.
+These projects showcase a variety of deep learning models that I implemented in Python. Each folder contains the complete source code, detailed descriptions of model architectures, training procedures, and hyperparameters. 
