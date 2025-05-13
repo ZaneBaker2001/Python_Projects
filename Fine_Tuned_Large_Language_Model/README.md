@@ -4,7 +4,7 @@ This project provides a framework for training and evaluating large language mod
 
 ## Setup
 
-To install the required dependencies, run the following command:
+To install the required dependencies, type in the following command:
 pip3 install -r requirements.txt
 
 ## Project Structure
