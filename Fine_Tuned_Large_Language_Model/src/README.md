@@ -1,4 +1,4 @@
-# Homework LLM Training Framework
+# LLM Training Framework using RFT and SFT 
 
 This project provides a framework for training and evaluating large language models using various fine-tuning strategies including Chain-of-Thought prompting (CoT), Supervised Fine-Tuning (SFT), and Reinforcement Fine-Tuning (RFT). It also supports dataset generation and evaluation pipelines.
 
