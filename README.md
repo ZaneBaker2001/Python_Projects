@@ -1,4 +1,4 @@
-Deep Learning Projects (Python)
+# Deep Learning Projects (Python)
 Each project is self-contained with complete source code, a README, and a requirements.txt file for easy setup.
 
 🔁 Mixed Precision Training
