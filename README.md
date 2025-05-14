@@ -1,7 +1,7 @@
 # Deep Learning Projects (Python)
 Each project is self-contained with complete source code, a README, and a requirements.txt file for easy setup.
 
-## Mixed Precision Training
+## BIGNET Mixed Precision
 Implements mixed precision to accelerate training of a BIGNET model.
 
 Utilizes both low and half-precision formats to reduce memory usage and improve training speed without compromising accuracy.
