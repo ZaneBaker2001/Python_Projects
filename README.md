@@ -1,4 +1,4 @@
-# Deep Learning Projects (Python)
+# Machine Learning Projects (Python)
 Each project is self-contained with complete source code, a README, and a requirements.txt file for easy setup.
 
 ## BIGNET Mixed Precision
