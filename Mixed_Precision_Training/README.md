@@ -1,4 +1,4 @@
-# Mixed Precision Training with BIGNET Model
+# Mixed-Precision Training with BIGNET Model
 
 This project explores multiple approaches to compress and fine-tune a large neural network model (BIGNET) using various techniques like quantization, LoRA, and half-precision formats. It also includes tools for evaluation and comparison.
 
