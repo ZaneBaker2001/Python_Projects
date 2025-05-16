@@ -242,6 +242,7 @@ def load_model(
             raise AssertionError(
                 f"Failed to load {model_path.name}, make sure the default model arguments are set correctly"
             ) from e
+    return m
 
     
     
