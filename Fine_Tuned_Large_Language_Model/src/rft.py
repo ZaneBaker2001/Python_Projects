@@ -90,7 +90,7 @@ def train_model(output_dir: str, **kwargs):
     test_model(output_dir)
 
 
-def test_model(model_path="homework/rft_model"):
+def test_model(model_path="src/rft_model"):
     # Load base model first
     llm = BaseLLM()
     
