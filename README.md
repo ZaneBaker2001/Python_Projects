@@ -1,7 +1,7 @@
 # Machine Learning Projects (Python)
 Each project is self-contained with complete source code, a README, and a requirements.txt file for easy setup.
 
-## BIGNET Mixed Precision
+## BIGNET Mixed-Precision
 Implements mixed precision to accelerate training of a BIGNET model.
 
 Utilizes both low and half-precision formats to reduce memory usage and improve training speed without compromising accuracy.
@@ -16,7 +16,7 @@ Generates question-answer pairs from the SuperTux dataset.
 
 Trains a multimodal model and evaluates its answer accuracy, showcasing vision-language understanding and integration.
 
-## Fine-Tuned Large Language Model
+## Finetuned Large Language Model
 Fine-tunes a large language model using both supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT).
 
 Demonstrates advanced language model customization for downstream tasks.
