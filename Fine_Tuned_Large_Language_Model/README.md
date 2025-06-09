@@ -38,7 +38,7 @@ To train the sft model, type in the following command:
 python3 -m src.sft train
 
 To generate the dataset to train the rft model with, type in the following command:
-python3 -m src.datagen
+python3 src.datagen
 
 Once the dataset has been generated, type in the following command to train the rft model:
 python3 -m src.rft train
